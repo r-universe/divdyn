@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "divDyn"]
 	path = divDyn
-	url = https://github.com/divdyn/divdyn
+	url = https://github.com/divdyn/r-package
 	shallow = true
 	registered = true
